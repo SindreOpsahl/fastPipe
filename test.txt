@@ -1,2 +1,0 @@
-this is the master branch
-this is the test branch
